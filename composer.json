@@ -1,5 +1,5 @@
 {
-    "name": "stancl/tenancy",
+    "name": "snowsoft/tenancy",
     "description": "Automatic multi-tenancy for your Laravel application.",
     "keywords": [
         "laravel",
